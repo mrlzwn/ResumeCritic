@@ -1,0 +1,10 @@
+streamlit
+<<<<<<< HEAD
+pymupdf
+scikit-learn
+reportLab
+=======
+PyMuPDF
+scikit-learn
+reportLab
+>>>>>>> ffa67f4a3a700cbf5fd6755325a5e52e40a339cc
